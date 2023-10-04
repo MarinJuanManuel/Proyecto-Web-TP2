@@ -1,0 +1,64 @@
+[
+    {
+        "id": "1",
+        "nombre": "Nintendo Gameboy",
+        "imagen": "./img/gameboy.jpg",
+        "descripcion": "Videoconsola portátil de 8 bits desarrollada y fabricada por Nintendo. Salió a la venta por primera vez en 1989.",
+        "precio": "80000",
+        "rating": "⭐⭐⭐"
+    },
+
+    {
+        "id": "2",
+        "nombre": "Nintendo Switch",
+        "imagen": "./img/nintendoswitch.jpg",
+        "descripcion": "Videoconsola portátil Nintendo Switch. Incluye la base de Nintendo Switch de color negro y los controles Joy-Con izquierdo y derecho de color azul y rojo respectivamente. También incluye todo lo que necesitas para empezar.",
+        "precio": "390000",
+        "rating": "⭐⭐⭐⭐"
+    },
+
+    {
+        "id": "3",
+        "nombre": "Playstation 4",
+        "imagen": "./img/playstation4.jpg",
+        "descripcion": "Sony PlayStation 4 500GB Standard color blanco. Memoria RAM de 8GB. Incluye control. Cuenta con: 1 cable de alimentación, 1 cable usb, 1 cable hdmi, 1 auricular monoaural.",
+        "precio": "250000",
+        "rating": "⭐⭐⭐⭐"
+    },
+
+    {
+        "id": "4",
+        "nombre": "Playstation 5",
+        "imagen": "./img/playstation5.jpg",
+        "descripcion": "Sony PlayStation 5 825GB Standard color blanco y negro. Memoria RAM de 16GB. Incluye control. Cuenta con: 1 dock, 1 cable de alimentación, 1 cable hdmi, 1 cable usb, 1 guía de inicio rápido, 1 guía de seguridad.",
+        "precio": "729999",
+        "rating": "⭐⭐⭐⭐⭐"
+    },
+
+    {
+        "id": "5",
+        "nombre": "Super Nintendo",
+        "imagen": "./img/supernintendo.jpg",
+        "descripcion": "Nintendo Super NES Classic Edition 512MB Standard color gris y violeta. Incluye 2 controles. Resolución de 1280px x 720px. Memoria RAM de 256MB. Consola clásica de Nintendo. Cuenta con: 1 cable hdmi, 1 manual, 1 adaptador de corriente.",
+        "precio": "300000",
+        "rating": "⭐⭐⭐"
+    },
+
+    {
+        "id": "6",
+        "nombre": "Xbox One S",
+        "imagen": "./img/xboxs.jpg",
+        "descripcion": "Microsoft Xbox One S 500GB Standard color blanco. Incluye control. Resolución de 3840px x 2160px. Memoria RAM de 8GB. Cuenta con: 1 cable hdmi, 1 cable de alimentación, 1 suscripción a xbox live gold por 14 días.",
+        "precio": "420000",
+        "rating": "⭐⭐⭐⭐"
+    },
+
+    {
+        "id": "7",
+        "nombre": "Xbox Series X",
+        "imagen": "./img/xboxx.jpg",
+        "descripcion": "Microsoft Xbox Series X 1TB Standard color negro. Incluye control. Resolución de 7680px x 4320px. Memoria RAM de 16GB. Cuenta con: 1 cable hdmi, 1 cable de alimentación.",
+        "precio": "769999",
+        "rating": "⭐⭐⭐⭐⭐"
+    }
+]
